@@ -1,0 +1,130 @@
+::selection {
+    background-color: white;
+    color: black;
+}
+body {
+    background-color:black;
+    color:  rgb(209, 209, 209);
+}
+.header {
+    text-align: center;
+}
+h1 {
+    color:  rgb(209, 209, 209);
+}
+#farah-hasan {
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+}
+.project {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10% 0;
+}
+.details {
+    flex-basis: 40%;
+    text-align: center;
+}
+a {
+    font-weight: bold;
+}
+video {
+    border: 5px solid;
+    width: 40%;
+    border-radius: 50px;
+}
+#newsletter-video {
+    border-color: #03e9f4;
+}
+.newsletter-details h2{
+    color: #03e9f4;
+}
+.newsletter-details a {
+    color: #03e9f4;
+}
+#contact-us-video {
+    border-color: #6C63FF;
+}
+.contact-us-details h2 {
+    color: #6C63FF;
+}
+.contact-us-details a {
+    color: #6C63FF;
+}
+.video-2 {
+    order: 2;
+}
+#payment-video {
+    border-color: rgb(255, 129, 204);
+}
+.payment-details h2 {
+    color: rgb(255, 129, 204);
+}
+.payment-details a {
+    color: rgb(255, 129, 204);
+}
+#restuarant-video {
+    border-color: green;
+}
+.restuarant-details h2 {
+    color: green;
+}
+.restuarant-details a {
+    color: green;
+}
+#sign-up-video {
+    border-color: #BA01FF;
+}
+.sign-up-details h2 {
+    color: #BA01FF;
+}
+.sign-up-details a {
+    color: #BA01FF;
+}
+#personal-website-video {
+    border-color: pink;
+}
+.personal-website-details h2 {
+    color: pink;
+}
+.personal-website-details a {
+    color: pink;
+}
+#log-in-video {
+    border-color: white;
+}
+.log-in-details h2{
+    color: white;
+}
+.log-in-details a {
+    color: white;
+}
+#app-video {
+    border-color: orangered;
+}
+.app-details h2 {
+    color: orangered;
+}
+.app-details a {
+    color: orangered;
+}
+#zakat-video {
+    border-color: #33A8DB;
+}
+.zakat-details h2 , .zakat-details a {
+    color: #33A8DB;
+}
+#computer-video {
+    border-color: #00344B;
+}
+.computer-details h2, .computer-details a {
+    color: #00344B;
+}
+
