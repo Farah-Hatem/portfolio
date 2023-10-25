@@ -136,6 +136,8 @@ video {
     .video-2 {
         order: -1;
     }
-
+    .details {
+        order: 2;
+    }
 }
 
