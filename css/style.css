@@ -132,7 +132,12 @@ video {
 .tasbeeh-details h2, .tasbeeh-details a {
     color: rgb(35, 172, 25);
 }
-
+#tasks-video {
+    border-color: rgb(255, 96, 16);
+}
+.tasks-details h2, .tasks-details a {
+    color: rgb(255, 96, 16);
+}
 @media (max-width: 768px ) {
     .project {
         flex-direction: column;
