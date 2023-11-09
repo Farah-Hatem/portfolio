@@ -138,6 +138,12 @@ video {
 .tasks-details h2, .tasks-details a {
     color: rgb(255, 96, 16);
 }
+#profile-video {
+    border-color: #48bae8;
+}
+.project-profile h2, .project-profile a{
+    color: #48bae8;
+}
 @media (max-width: 768px ) {
     .project {
         flex-direction: column;
