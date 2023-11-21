@@ -144,6 +144,12 @@ video {
 .project-profile h2, .project-profile a{
     color: #48bae8;
 }
+#memory-video {
+    border-color: rgb(13, 97, 75);
+}
+.project-memory h2, .project-memory a {
+    color: rgb(13, 97, 75);
+}
 @media (max-width: 768px ) {
     .project {
         flex-direction: column;
