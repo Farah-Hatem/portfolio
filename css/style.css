@@ -150,6 +150,12 @@ video {
 .project-memory h2, .project-memory a {
     color: rgb(13, 97, 75);
 }
+#school-program-video {
+    border-color: rgb(255, 204, 0);
+}
+.school-program h2, .school-program a {
+    color: rgb(255, 204, 0);
+}
 @media (max-width: 768px ) {
     .project {
         flex-direction: column;
