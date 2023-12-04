@@ -34,7 +34,7 @@ h1 {
 a {
     font-weight: bold;
 }
-video {
+video, img {
     border: 5px solid;
     width: 40%;
     border-radius: 50px;
@@ -166,7 +166,7 @@ video {
     .project {
         flex-direction: column;
     }
-    video {
+    video, img {
         width: 90%;
     }
     .video-2 {
