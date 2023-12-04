@@ -156,6 +156,12 @@ video {
 .school-program h2, .school-program a {
     color: rgb(255, 204, 0);
 }
+#currency-video {
+    border-color: rgb(0, 0, 90);
+}
+.currency-details h2, .currency-details a {
+    color: white;
+}
 @media (max-width: 768px ) {
     .project {
         flex-direction: column;
